@@ -1,8 +1,4 @@
-Here's an updated description for your fork of Waymap:  
-
----
-
-# Waymap - Web Vulnerability Scanner (Fork by Yash Kulkarni)  
+# Waymap - Web Vulnerability Scanner (v2 - Yash Kulkarni)  
 
 **Current Version**: 6.1.8  
 **Original Author**: Trix Cyrus  
