@@ -2,7 +2,7 @@
 
 **Current Version**: 6.1.8  
 **Original Author**: Trix Cyrus  
-**Original Maintainers**: Yash Kulkarni & Jenin Sutradhar
+**Original Maintainers**: Yash Kulkarni & Jenin Sutradhar  
 **Fork Maintainer**: Yash Kulkarni  
 **Copyright**: © 2024 TrixSec Org  
 **Maintained**: Yes  
